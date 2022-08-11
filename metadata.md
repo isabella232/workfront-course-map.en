@@ -2,7 +2,6 @@
 cloud: Experience Cloud
 solution: Workfront
 product: Workfront
-type: Course
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/workfront-course-map.en
 index: no
