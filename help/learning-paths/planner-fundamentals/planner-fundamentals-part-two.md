@@ -9,7 +9,7 @@ The following two Workfont One Learning Paths,
 * Planner Fundamentals for the new Workfront experience, Part 1: Create a Project
 * Planner Fundamentals for the new Workfront experience, Part 2: Plan a Project
 
-Have been combined into a single Experience League course, [Getting started with Workfront for Planners](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners).
+have been combined into a single Experience League course, [Getting started with Workfront for Planners](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners){target="_blank"}.
 
 The new Experience League course covers the same learning objectives as the prior learning paths, and has been optimized where possible to provide an optimized learning experience.  Explore the full library of Workfront courses, documentation, tutorials and communities on Experience League.
 

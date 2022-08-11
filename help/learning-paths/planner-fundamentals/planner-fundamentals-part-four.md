@@ -9,7 +9,7 @@ The following two Workfont One Learning Paths,
 * Planner Fundamentals for the new Workfront experience, Part 3: Manage a Project
 * Planner Fundamentals for the new Workfront experience, Part 4: Close a Project
 
-Have been combined into a single Experience League course, [Manage and close a project](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners).
+have been combined into a single Experience League course, [Manage and close a project](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners){target="_blank"}.
 
 The new Experience League course covers the same learning objectives as the prior learning paths, and has been optimized where possible to provide an optimized learning experience.  Explore the full library of Workfront courses, documentation, tutorials and communities on Experience League.
 
