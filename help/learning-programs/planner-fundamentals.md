@@ -8,7 +8,7 @@ When you first learn to manage projects, Workfront recommends you keep things si
 
 >[!TIP]
 >
->**Please note this Learning Program is now mapped to the newly migrated and optimized Experience League Workfront courses.  All of the same learning objects are covered with the new structure.**.
+>**Please note this former Workfront One Learning Program is now mapped to the newly migrated and optimized Experience League Workfront courses.  All of the same learning objects are covered with the new structure.**.
 
 <table>
   <tr>
