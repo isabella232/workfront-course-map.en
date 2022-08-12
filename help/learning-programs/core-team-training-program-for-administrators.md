@@ -1,8 +1,8 @@
 ---
-title: Workfront for administrators
+title: Core team training for administrators in the new Workfront experience
 description: mapping workfront one courses to experience league courses
 ---
-# Workfront for administrators (WIP)
+# Core team training for administrators in the new Workfront experience
 
 Develop a strong foundation of how to manage projects in Workfront Classic.
 

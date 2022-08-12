@@ -1,10 +1,10 @@
 ---
-title: Workfront for planners
+title: Core team training for planners in the new Workfront experience
 description: mapping workfront one courses to experience league courses
 ---
-# Workfront for planners
+# Core team training for planners in the new Workfront experience
 
-Develop a strong foundation of how to manage projects in Workfront Classic.
+This program contains the essential topics needed for the successful onboarding of the champions, project managers, power users, and trainers involved in your organization's Workfront implementation.
 
 >[!TIP]
 >

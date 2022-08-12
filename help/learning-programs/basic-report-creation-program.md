@@ -4,7 +4,7 @@ description: mapping workfront one courses to experience league courses
 ---
 # Basic report creation for the new Workfront experience
 
-Reports provide insight, motivate action, and justify work efforts. Learn to create amazing and insightful custom reports and dashboards to unlock the data you’re tracking in Workfront.
+Reports provide insight, motivate action, and justify work efforts. Learn to create amazing and insightful custom reports and dashboards to unlock the data you are tracking in Workfront.
 
 >[!TIP]
 >
