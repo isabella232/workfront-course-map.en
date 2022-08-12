@@ -19,7 +19,7 @@ user-guide-description: This page provides a mapping from previous Workfront One
     + [Part 1 - Create a Project](learning-paths/planner-fundamentals-program-for-nwe/planner-fundamentals-for-the-new-workfront-experience-20Y0z000000blfZEAQ.md)
     + [Part 2 - Plan a Project](learning-paths/planner-fundamentals-program-for-nwe/planner-fundamentals-for-the-new-workfront-experience-part-2-plan-a-project-20Y0z000000bm79EAA.md)
     + [Part 3 - Manage a Project](learning-paths/planner-fundamentals-program-for-nwe/planner-fundamentals-for-the-new-workfront-experience-part-3-manage-a-project-20Y0z000000bm7xEAA.md)
-    + [Part 4 - Close a Project](learning-paths/planner-fundamentals-program-for-nwe/planner-fundamentals-for-the-new-workfront-experience-part-4-close-a-project-20Y0z000000bm8bEAA?tabset-0139a=62a79.md)
+    + [Part 4 - Close a Project](learning-paths/planner-fundamentals-program-for-nwe/planner-fundamentals-for-the-new-workfront-experience-part-4-close-a-project.md)
   + Basic Report Creation for the new Workfront experience {#basic-report-creation-program}
     + [Reporting elements and components](learning-paths/basic-report-creation-program/basic-reporting-reporting-elements-and-components-in-the-new-workfront-experienc-20Y4X000000Cai3UAC.md)
     + [Create a basic grouping](learning-paths/basic-report-creation-program/basic-reporting-create-a-basic-grouping-20Y4X000000CamjUAC.md)
