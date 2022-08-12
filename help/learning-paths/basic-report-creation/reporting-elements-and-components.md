@@ -13,7 +13,7 @@ The following four Workfont One Learning Paths,
 
 have been combined into a single Experience League course, [Basic Reporting Elements](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting){target="_blank"}.
 
-The new Experience League course covers the same learning objectives as the prior learning paths, and has been optimized where possible to provide an optimized learning experience.  Explore the full library of Workfront courses, documentation, tutorials and communities on Experience League.
+The new Experience League course covers the same learning objectives as the prior learning paths, and has been optimized where possible to provide an comprehensive learning experience.  Explore the full library of Workfront courses, documentation, tutorials and communities on Experience League.
 
 ## Additional Resources
 

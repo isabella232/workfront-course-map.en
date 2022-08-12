@@ -16,7 +16,7 @@ user-guide-description: This page provides a mapping from previous Workfront One
     + [Part 2 - Plan a Project](learning-paths/planner-fundamentals/planner-fundamentals-program-for-nwe-part-two.md)
     + [Part 3 - Manage a Project](learning-paths/planner-fundamentals/planner-fundamentals-program-for-nwe-part-three.md)
     + [Part 4 - Close a Project](learning-paths/planner-fundamentals/planner-fundamentals-program-for-nwe-part-four.md)
-  + Basic Report Creation {#basic-report-creation}
+  + Basic Report Creation for the new Workfront experience {#basic-report-creation}
     + [Reporting elements and components](learning-paths/basic-report-creation/reporting-elements-and-components.md)
     + [Create a basic grouping](learning-paths/basic-report-creation/create-a-basic-grouping.md)
     + [Create a basic view](learning-paths/basic-report-creation/create-a-basic-view.md)
@@ -26,3 +26,6 @@ user-guide-description: This page provides a mapping from previous Workfront One
     + [Create a basic dashboard](learning-paths/basic-report-creation/create-a-basic-dashboard.md)
     + [Send and share reports](learning-paths/basic-report-creation/send-and-share-reports.md)
     + [Report settings](learning-paths/basic-report-creation/report-settings.md)
+  + Core team training for the new Workfront experience (#core-team-training-programs)
+     + [Core team planners](learning-paths/core-team-training-programs/core-team-planners.md)
+     + [Core team administrators](learning-paths/core-team-training-programs/core-team-administrators.md)

@@ -1,10 +1,10 @@
 ---
-title: Basic report creation for the new Workfront experience
+title: Workfront for administrators
 description: mapping workfront one courses to experience league courses
 ---
-# Basic report creation for the new Workfront experience
+# Workfront for administrators (WIP)
 
-Reports provide insight, motivate action, and justify work efforts. Learn to create amazing and insightful custom reports and dashboards to unlock the data you’re tracking in Workfront.
+Develop a strong foundation of how to manage projects in Workfront Classic.
 
 >[!TIP]
 >
