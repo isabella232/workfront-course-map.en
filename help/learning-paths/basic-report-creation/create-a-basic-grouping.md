@@ -1,15 +1,17 @@
 ---
-title: Planner Fundamentals for the new Workfront experience, Part 3 and 4
+title: Create a basic grouping
 description: mapping workfront one courses to experience league courses
 ---
-# Planner Fundamentals for the new Workfront experience, Part 3 and 4
+# Create a basic grouping
 
-The following two Workfont One Learning Paths,
+The following four Workfont One Learning Paths,
 
-* Planner Fundamentals for the new Workfront experience, Part 3: Manage a Project
-* Planner Fundamentals for the new Workfront experience, Part 4: Close a Project
+* Reporting elements and components
+* Create a basic filter
+* Create a basic grouping
+* Create a basic view
 
-have been combined into a single Experience League course, [Manage and close a project](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners){target="_blank"}.
+have been combined into a single Experience League course, [Basic Reporting Elements](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting){target="_blank"}.
 
 The new Experience League course covers the same learning objectives as the prior learning paths, and has been optimized where possible to provide an optimized learning experience.  Explore the full library of Workfront courses, documentation, tutorials and communities on Experience League.
 

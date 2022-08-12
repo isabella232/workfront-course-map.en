@@ -14,6 +14,22 @@ When you first learn to manage projects, Workfront recommends you keep things si
   <tr>
    <td>
       <a href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners">
+      <img alt="Request queues for users" src="https://cdn.experienceleague.adobe.com/thumb/request-queues-for-users.png"/>
+      </a>
+      <div>
+         <strong>Request queues for users</strong></a>         
+         <br/><em>13 minutes</em>
+      </div>
+      <p>
+        <br/>
+         This course is for people who work with requests.
+      </p>
+      <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.request-queues" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Go to course</span>
+      </a>
+   </td>   
+   <td>
+      <a href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners">
       <img alt="Get Started with Workfront for Planners" src="https://cdn.experienceleague.adobe.com/thumb/get-started-with-workfront-for-planners.png"/>
       </a>
       <div>
@@ -44,6 +60,8 @@ When you first learn to manage projects, Workfront recommends you keep things si
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Go to course</span>
       </a>
    </td>
+  </tr>
+  <tr>
    <td>
       <a href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners">
       <img alt="Further understanding of managing work as a planner" src="https://cdn.experienceleague.adobe.com/thumb/further-understanding-of-managing-work-as-a-planner.png"/>
@@ -60,24 +78,6 @@ When you first learn to manage projects, Workfront recommends you keep things si
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Go to course</span>
       </a>
    </td>
-  </tr>
-  <tr>
-   <td>
-      <a href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners">
-      <img alt="Request queues for users" src="https://cdn.experienceleague.adobe.com/thumb/request-queues-for-users.png"/>
-      </a>
-      <div>
-         <strong>Request queues for users</strong></a>         
-         <br/><em>13 minutes</em>
-      </div>
-      <p>
-        <br/>
-         This course is for people who work with requests.
-      </p>
-      <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Go to course</span>
-      </a>
-   </td>   
   </tr>
 
 </table>

@@ -1,15 +1,17 @@
 ---
-title: Planner Fundamentals for the new Workfront experience, Part 1 and 2
+title: Send and share reports
 description: mapping workfront one courses to experience league courses
 ---
-# Planner Fundamentals for the new Workfront experience, Part 1 and 2
+# Send and share reports
 
-The following two Workfont One Learning Paths,
+The following four Workfont One Learning Paths,
 
-* Planner Fundamentals for the new Workfront experience, Part 1: Create a Project
-* Planner Fundamentals for the new Workfront experience, Part 2: Plan a Project
+* Create a basic dashboard
+* Create basic custom reports
+* Report settings
+* Send and share reports
 
-have been combined into a single Experience League course, [Getting started with Workfront for Planners](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners){target="_blank"}.
+have been combined into a single Experience League course, [Create custom reports and dashboards](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting){target="_blank"}.
 
 The new Experience League course covers the same learning objectives as the prior learning paths, and has been optimized where possible to provide an optimized learning experience.  Explore the full library of Workfront courses, documentation, tutorials and communities on Experience League.
 
